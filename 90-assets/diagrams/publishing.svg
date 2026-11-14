@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1140" viewBox="0 0 1800 1140" role="img">
+<title>publishing</title>
+<rect x="0" y="0" width="1800" height="1140" rx="0" fill="#F6F8FB" stroke="#F6F8FB"/>
+<text x="70" y="60" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" font-weight="700" fill="#2667A5">SOURCE / ARTIFACT / RECORD / DATA</text>
+<text x="70" y="140" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="50" font-weight="700" fill="#163047">源文件、结果、登记、运行数据各司其职</text>
+<text x="70" y="199" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">完整工作空间可以被理解与复刻，不需要把秘密和所有大文件都提交。</text>
+<rect x="60" y="280" width="810" height="300" rx="20" fill="#EAF2FA" stroke="#DCE4ED"/>
+<text x="86" y="335" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">10-code：源文件</text>
+<text x="86" y="398" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="400" fill="#163047">持续编辑的实现、测试、提示词、可编辑工程与运行资源</text>
+<text x="86" y="443" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="400" fill="#163047">。</text>
+<rect x="930" y="280" width="810" height="300" rx="20" fill="#EAF5F0" stroke="#DCE4ED"/>
+<text x="956" y="335" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">outputs：结果</text>
+<text x="956" y="398" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="400" fill="#163047">构建包、导出、评测与恢复探测；通常忽略本体。</text>
+<rect x="60" y="665" width="810" height="300" rx="20" fill="#FFFFFF" stroke="#DCE4ED"/>
+<text x="86" y="720" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">06 / 07：可核对记录</text>
+<text x="86" y="783" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="400" fill="#163047">精确提交、产物ID/hash、当前目标和实际验证；不伪造</text>
+<text x="86" y="828" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="400" fill="#163047">成功。</text>
+<rect x="930" y="665" width="810" height="300" rx="20" fill="#FFF6E7" stroke="#DCE4ED"/>
+<text x="956" y="720" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">独立受控：运行数据</text>
+<text x="956" y="783" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="400" fill="#163047">数据库、媒体、账户、秘密与签名私钥；不进入普通Git</text>
+<text x="956" y="828" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="400" fill="#163047">。</text>
+<text x="60" y="1077" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="700" fill="#28766B">发布：封存 → 不可变产物 → 目标环境验证 → 具体授权 → 实际核对 → 更新登记</text>
+</svg>

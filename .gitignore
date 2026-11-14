@@ -1,0 +1,33 @@
+# Reproducible outputs are local; retain the guide
+/outputs/*
+!/outputs/README.md
+**/node_modules/
+**/__pycache__/
+**/.venv/
+**/.next/
+**/dist/
+**/build/
+**/target/
+**/.gradle/
+**/.dart_tool/
+**/DerivedData/
+**/.env
+**/.env.*
+!**/.env.example
+*.sqlite*
+*.db
+*.log
+*.p12
+*.pfx
+*.jks
+*.keystore
+service-account*.json
+# Local recovery payloads; their receipts belong in 06-versions
+/99-archive/checkpoints/
+/99-archive/*.bundle
+/99-archive/*.zip
+.DS_Store
+Thumbs.db
+~$*.docx
+~$*.xlsx
+~$*.pptx

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "project": {
+    "name": "AI Product Manager Workspace",
+    "slug": "ai-product-manager-workspace",
+    "mode": "template"
+  },
+  "components": [],
+  "management": {
+    "requirementPool": "04-requirement-pool/requirement-pool.md",
+    "sourceRegister": "01-inputs/source-register.md",
+    "deploymentRegister": "06-versions/deployment-register.md",
+    "artifactRegister": "06-versions/artifact-register.md",
+    "checkpointRegister": "06-versions/checkpoint-register.md"
+  }
+}

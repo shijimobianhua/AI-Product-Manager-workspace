@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "ART-XXXX",
+  "kind": "fill-after-real-output",
+  "component": null,
+  "versionOrCommit": null,
+  "sha256": "fill-real-sha256",
+  "bytes": null,
+  "access": "local-only-or-authorized-remote",
+  "storageReference": "fill-controlled-location-without-secrets",
+  "verification": "state-what-was-actually-checked"
+}

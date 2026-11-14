@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1420" viewBox="0 0 1800 1420" role="img">
+<title>overview</title>
+<rect x="0" y="0" width="1800" height="1420" rx="0" fill="#F6F8FB" stroke="#F6F8FB"/>
+<text x="70" y="60" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" font-weight="700" fill="#2667A5">WORKSPACE MAP</text>
+<text x="70" y="140" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="50" font-weight="700" fill="#163047">一套目录，连接判断、实现与证据</text>
+<text x="70" y="199" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">原十个管理目录保留；工程源文件、生成结果与运行数据分开。</text>
+<rect x="60" y="270" width="405" height="225" rx="20" fill="#EAF2FA" stroke="#DCE4ED"/>
+<text x="86" y="325" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">00-rules</text>
+<text x="86" y="385" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">共同规则与执行门槛</text>
+<rect x="485" y="270" width="405" height="225" rx="20" fill="#EAF2FA" stroke="#DCE4ED"/>
+<text x="511" y="325" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">01-inputs</text>
+<text x="511" y="385" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">原始材料与来源</text>
+<rect x="910" y="270" width="405" height="225" rx="20" fill="#EAF2FA" stroke="#DCE4ED"/>
+<text x="936" y="325" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">02-product</text>
+<text x="936" y="385" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">稳定产品事实</text>
+<rect x="1335" y="270" width="405" height="225" rx="20" fill="#EAF2FA" stroke="#DCE4ED"/>
+<text x="1361" y="325" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">03-planning</text>
+<text x="1361" y="385" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">跨需求分析与取舍</text>
+<rect x="60" y="525" width="405" height="225" rx="20" fill="#EAF2FA" stroke="#DCE4ED"/>
+<text x="86" y="580" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">04-requirement-pool</text>
+<text x="86" y="640" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">唯一当前需求状态</text>
+<rect x="485" y="525" width="405" height="225" rx="20" fill="#EAF2FA" stroke="#DCE4ED"/>
+<text x="511" y="580" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">05-requirements</text>
+<text x="511" y="640" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">独立需求与验收定义</text>
+<rect x="910" y="525" width="405" height="225" rx="20" fill="#EAF2FA" stroke="#DCE4ED"/>
+<text x="936" y="580" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">06-versions</text>
+<text x="936" y="640" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">版本、产物、部署与保管</text>
+<rect x="1335" y="525" width="405" height="225" rx="20" fill="#EAF2FA" stroke="#DCE4ED"/>
+<text x="1361" y="580" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">07-reviews</text>
+<text x="1361" y="640" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">真实评审、失败与验证</text>
+<rect x="60" y="780" width="405" height="225" rx="20" fill="#EAF5F0" stroke="#DCE4ED"/>
+<text x="86" y="835" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">10-code</text>
+<text x="86" y="895" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">持续编辑的工程源</text>
+<rect x="485" y="780" width="405" height="225" rx="20" fill="#EAF5F0" stroke="#DCE4ED"/>
+<text x="511" y="835" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">90-assets</text>
+<text x="511" y="895" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">共享资产与说明图</text>
+<rect x="910" y="780" width="405" height="225" rx="20" fill="#EAF5F0" stroke="#DCE4ED"/>
+<text x="936" y="835" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">99-archive</text>
+<text x="936" y="895" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">历史与恢复保管</text>
+<rect x="1335" y="780" width="405" height="225" rx="20" fill="#EAF5F0" stroke="#DCE4ED"/>
+<text x="1361" y="835" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">outputs</text>
+<text x="1361" y="895" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">生成与交付结果</text>
+<rect x="60" y="1035" width="405" height="225" rx="20" fill="#EAF5F0" stroke="#DCE4ED"/>
+<text x="86" y="1090" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">.github</text>
+<text x="86" y="1150" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">明确的仓库检查；不默认生产</text>
+<text x="86" y="1190" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">发布</text>
+<text x="510" y="1138" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="28" font-weight="700" fill="#163047">根Git保管已提交的管理文档和工程</text>
+<text x="510" y="1192" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">用户数据、凭据及大型私有payload独立受控保管</text>
+<text x="60" y="1363" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="28" font-weight="700" fill="#28766B">读图顺序：规则 → 输入与判断 → 需求 → 版本 → 实施 → 验证 → 反馈</text>
+</svg>

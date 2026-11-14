@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1120" viewBox="0 0 1800 1120" role="img">
+<title>folder-10-code</title>
+<rect x="0" y="0" width="1800" height="1120" rx="0" fill="#F6F8FB" stroke="#F6F8FB"/>
+<text x="70" y="60" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" font-weight="700" fill="#2667A5">10-code</text>
+<text x="70" y="140" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="50" font-weight="700" fill="#163047">工程源文件</text>
+<text x="70" y="199" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">保存持续编辑的实现，支持不同交付类型</text>
+<rect x="70" y="270" width="500" height="350" rx="20" fill="#FFFFFF" stroke="#DCE4ED"/>
+<text x="96" y="325" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">接收什么</text>
+<text x="96" y="387" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">已确认需求、架构决定、执行规范</text>
+<rect x="650" y="270" width="500" height="350" rx="20" fill="#EAF2FA" stroke="#DCE4ED"/>
+<text x="676" y="325" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">本目录保存</text>
+<text x="676" y="387" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">源码、测试、提示词源、工作流、</text>
+<text x="676" y="430" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">可编辑工程、必要静态资源</text>
+<rect x="1230" y="270" width="500" height="350" rx="20" fill="#EAF5F0" stroke="#DCE4ED"/>
+<text x="1256" y="325" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">交给哪里</text>
+<text x="1256" y="387" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">构建、部署、安装或导出产生out</text>
+<text x="1256" y="430" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">puts</text>
+<line x1="580" y1="445" x2="638" y2="445" stroke="#2667A5" stroke-width="4"/>
+<polygon points="638,445 625,437 625,453" fill="#2667A5"/>
+<line x1="1160" y1="445" x2="1218" y2="445" stroke="#2667A5" stroke-width="4"/>
+<polygon points="1218,445 1205,437 1205,453" fill="#2667A5"/>
+<rect x="70" y="680" width="810" height="210" rx="20" fill="#FFFFFF" stroke="#DCE4ED"/>
+<text x="96" y="735" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">不要混放</text>
+<text x="96" y="795" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">唯一产品PRD副本、密钥、真实用户数据、随意嵌套Git</text>
+<rect x="920" y="680" width="810" height="210" rx="20" fill="#FFF6E7" stroke="#DCE4ED"/>
+<text x="946" y="735" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">关键约束</text>
+<text x="946" y="795" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">组件登记后执行；框架相对结构保留；默认根Git统一版本化</text>
+<rect x="70" y="930" width="1660" height="135" rx="20" fill="#FFFFFF" stroke="#DCE4ED"/>
+<text x="95" y="972" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="24" font-weight="700" fill="#28766B">正确使用示例</text>
+<text x="95" y="1016" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" font-weight="400" fill="#163047">网站、App、CLI或内容工程各用一个组件目录，未创建就不填假组件。</text>
+</svg>

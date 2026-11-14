@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1120" viewBox="0 0 1800 1120" role="img">
+<title>ai-bootstrap</title>
+<rect x="0" y="0" width="1800" height="1120" rx="0" fill="#F6F8FB" stroke="#F6F8FB"/>
+<text x="70" y="60" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" font-weight="700" fill="#2667A5">AI BOOTSTRAP</text>
+<text x="70" y="140" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="50" font-weight="700" fill="#163047">把模板交给AI，在空目录建立真实项目</text>
+<text x="70" y="199" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">先完整阅读，再检查目标；只初始化结构，不编造产品与上线事实。</text>
+<rect x="60" y="300" width="405" height="315" rx="20" fill="#EAF2FA" stroke="#DCE4ED"/>
+<text x="86" y="355" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">01 读完整文档</text>
+<text x="86" y="416" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="28" font-weight="400" fill="#163047">README、AGENTS、规则和</text>
+<text x="86" y="458" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="28" font-weight="400" fill="#163047">目录图</text>
+<rect x="485" y="300" width="405" height="315" rx="20" fill="#EAF2FA" stroke="#DCE4ED"/>
+<text x="511" y="355" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">02 核对目标</text>
+<text x="511" y="416" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="28" font-weight="400" fill="#163047">位置、已有文件、权限和本</text>
+<text x="511" y="458" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="28" font-weight="400" fill="#163047">轮范围</text>
+<rect x="910" y="300" width="405" height="315" rx="20" fill="#EAF2FA" stroke="#DCE4ED"/>
+<text x="936" y="355" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">03 Dry-run</text>
+<text x="936" y="416" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="28" font-weight="400" fill="#163047">显示将复制什么，不写文件</text>
+<rect x="1335" y="300" width="405" height="315" rx="20" fill="#EAF5F0" stroke="#DCE4ED"/>
+<text x="1361" y="355" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">04 生成并验证</text>
+<text x="1361" y="416" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="28" font-weight="400" fill="#163047">只接受空目标，保留空表与</text>
+<text x="1361" y="458" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="28" font-weight="400" fill="#163047">空组件</text>
+<line x1="470" y1="455" x2="479" y2="455" stroke="#2667A5" stroke-width="4"/>
+<polygon points="479,455 466,447 466,463" fill="#2667A5"/>
+<line x1="895" y1="455" x2="904" y2="455" stroke="#2667A5" stroke-width="4"/>
+<polygon points="904,455 891,447 891,463" fill="#2667A5"/>
+<line x1="1320" y1="455" x2="1329" y2="455" stroke="#2667A5" stroke-width="4"/>
+<polygon points="1329,455 1316,447 1316,463" fill="#2667A5"/>
+<rect x="60" y="720" width="810" height="245" rx="20" fill="#FFF6E7" stroke="#DCE4ED"/>
+<text x="86" y="775" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">目标非空：停止覆盖</text>
+<text x="86" y="836" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="28" font-weight="400" fill="#163047">只读盘点，保管现有状态，另定迁移方案；不能删掉旧文件来</text>
+<text x="86" y="878" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="28" font-weight="400" fill="#163047">绕过拒绝。</text>
+<rect x="930" y="720" width="810" height="245" rx="20" fill="#FFFFFF" stroke="#DCE4ED"/>
+<text x="956" y="775" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">目标为空：诚实起步</text>
+<text x="956" y="836" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="28" font-weight="400" fill="#163047">名称来自用户；需求、组件、部署与封存登记没有真实动作就</text>
+<text x="956" y="878" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="28" font-weight="400" fill="#163047">保持空白。</text>
+<text x="60" y="1056" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="26" font-weight="700" fill="#28766B">初始化不创建云资源、业务应用或远端仓库；阶段批准和生产动作需要明确授权。</text>
+</svg>

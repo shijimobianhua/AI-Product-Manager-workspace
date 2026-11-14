@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1120" viewBox="0 0 1800 1120" role="img">
+<title>folder-90-assets-diagrams</title>
+<rect x="0" y="0" width="1800" height="1120" rx="0" fill="#F6F8FB" stroke="#F6F8FB"/>
+<text x="70" y="60" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" font-weight="700" fill="#2667A5">90-assets/diagrams</text>
+<text x="70" y="140" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="50" font-weight="700" fill="#163047">图示文件</text>
+<text x="70" y="199" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">把目录、流程和边界解释成可阅读图片</text>
+<rect x="70" y="270" width="500" height="350" rx="20" fill="#FFFFFF" stroke="#DCE4ED"/>
+<text x="96" y="325" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">接收什么</text>
+<text x="96" y="387" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">directory-map与通用流程图定</text>
+<text x="96" y="430" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">义</text>
+<rect x="650" y="270" width="500" height="350" rx="20" fill="#EAF2FA" stroke="#DCE4ED"/>
+<text x="676" y="325" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">本目录保存</text>
+<text x="676" y="387" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">每个目录的SVG与PNG说明图、总</text>
+<text x="676" y="430" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">览和恢复图</text>
+<rect x="1230" y="270" width="500" height="350" rx="20" fill="#EAF5F0" stroke="#DCE4ED"/>
+<text x="1256" y="325" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">交给哪里</text>
+<text x="1256" y="387" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">各目录README和教程嵌入图片</text>
+<line x1="580" y1="445" x2="638" y2="445" stroke="#2667A5" stroke-width="4"/>
+<polygon points="638,445 625,437 625,453" fill="#2667A5"/>
+<line x1="1160" y1="445" x2="1218" y2="445" stroke="#2667A5" stroke-width="4"/>
+<polygon points="1218,445 1205,437 1205,453" fill="#2667A5"/>
+<rect x="70" y="680" width="810" height="210" rx="20" fill="#FFFFFF" stroke="#DCE4ED"/>
+<text x="96" y="735" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">不要混放</text>
+<text x="96" y="795" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">项目截图、含账户信息的截图或生成效果假证明</text>
+<rect x="920" y="680" width="810" height="210" rx="20" fill="#FFF6E7" stroke="#DCE4ED"/>
+<text x="946" y="735" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">关键约束</text>
+<text x="946" y="795" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">文字与规则一致；图示修改可从源数据重建</text>
+<rect x="70" y="930" width="1660" height="135" rx="20" fill="#FFFFFF" stroke="#DCE4ED"/>
+<text x="95" y="972" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="24" font-weight="700" fill="#28766B">正确使用示例</text>
+<text x="95" y="1016" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" font-weight="400" fill="#163047">修改目录职责后重新生成图片，再检查链接和排版。</text>
+</svg>

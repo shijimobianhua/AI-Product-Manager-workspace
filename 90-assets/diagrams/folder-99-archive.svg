@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1120" viewBox="0 0 1800 1120" role="img">
+<title>folder-99-archive</title>
+<rect x="0" y="0" width="1800" height="1120" rx="0" fill="#F6F8FB" stroke="#F6F8FB"/>
+<text x="70" y="60" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" font-weight="700" fill="#2667A5">99-archive</text>
+<text x="70" y="140" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="50" font-weight="700" fill="#163047">历史与恢复保管</text>
+<text x="70" y="199" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">保留不再作为当前事实的内容和必要恢复材料</text>
+<rect x="70" y="270" width="500" height="350" rx="20" fill="#FFFFFF" stroke="#DCE4ED"/>
+<text x="96" y="325" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">接收什么</text>
+<text x="96" y="387" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">被替代资料、放弃方案、已验证的</text>
+<text x="96" y="430" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">保管点</text>
+<rect x="650" y="270" width="500" height="350" rx="20" fill="#EAF2FA" stroke="#DCE4ED"/>
+<text x="676" y="325" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">本目录保存</text>
+<text x="676" y="387" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">历史说明、归档索引；本地bundl</text>
+<text x="676" y="430" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">e和备份按权限忽略</text>
+<rect x="1230" y="270" width="500" height="350" rx="20" fill="#EAF5F0" stroke="#DCE4ED"/>
+<text x="1256" y="325" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">交给哪里</text>
+<text x="1256" y="387" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">需要时从保管点独立恢复，不覆盖</text>
+<text x="1256" y="430" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#163047">当前工作</text>
+<line x1="580" y1="445" x2="638" y2="445" stroke="#2667A5" stroke-width="4"/>
+<polygon points="638,445 625,437 625,453" fill="#2667A5"/>
+<line x1="1160" y1="445" x2="1218" y2="445" stroke="#2667A5" stroke-width="4"/>
+<polygon points="1218,445 1205,437 1205,453" fill="#2667A5"/>
+<rect x="70" y="680" width="810" height="210" rx="20" fill="#FFFFFF" stroke="#DCE4ED"/>
+<text x="96" y="735" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">不要混放</text>
+<text x="96" y="795" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">另一套仍在修改的源码、未经核对的大清理结果</text>
+<rect x="920" y="680" width="810" height="210" rx="20" fill="#FFF6E7" stroke="#DCE4ED"/>
+<text x="946" y="735" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="30" font-weight="700" fill="#2667A5">关键约束</text>
+<text x="946" y="795" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="27" font-weight="400" fill="#163047">历史默认保留；清理需授权；本机备份不是异地容灾</text>
+<rect x="70" y="930" width="1660" height="135" rx="20" fill="#FFFFFF" stroke="#DCE4ED"/>
+<text x="95" y="972" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="24" font-weight="700" fill="#28766B">正确使用示例</text>
+<text x="95" y="1016" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" font-weight="400" fill="#163047">B版不满意仍保管，回到A版开发C版，未来可以复用B版提交。</text>
+</svg>
